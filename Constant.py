@@ -1,0 +1,14 @@
+REGISTER       = '1'
+SHARE          = '2'
+SEARCH         = '3'
+CONNECT        = '4'
+STOP           = '5'
+DOWNLOAD       = '6'
+OK             = '7'
+HOST           = 'localhost'
+PORT           = 50006
+PeerPorts      = [50020,50021,50052,50053,50054,50054,50055,50056,50057,50058,50059]
+PeerPortsClient= [50020,50021,50052,50053,50054,50054,50055,50056,50057,50058,50059]
+PeerIDs        = [1,2,3,4,5,6,7,8,9,10]
+MaxConnections = 10
+FilePath       = "/root/Desktop/OS2_Task1/"
